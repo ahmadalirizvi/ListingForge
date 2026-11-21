@@ -1,0 +1,10 @@
+{
+  "scene":["seamless white studio sweep","light grey gradient studio","warm wooden table in a sunlit kitchen","marble countertop in a modern bathroom","rustic outdoor wooden deck","cozy living room shelf","minimalist Scandinavian desk","concrete loft surface","garden table with soft greenery bokeh","beach-house linen backdrop","dark moody slate surface","pastel colored paper backdrop","handmade-market stall with kraft paper","bedside table with morning light"],
+  "camera_angle":["front eye-level","three-quarter 45 degree","top-down flat lay","low-angle hero","side profile","close-up macro detail","slightly elevated 30 degree","back-three-quarter"],
+  "lens_and_depth":["50mm shallow depth of field","85mm portrait compression","100mm macro","35mm wide with context","deep focus f/11 catalog sharp"],
+  "lighting":["soft diffused window light","bright high-key softbox","warm golden hour side light","cool overcast daylight","dramatic rim light with soft fill","ring-light even illumination","split-tone warm/cool","backlit with glow"],
+  "composition":["centered with generous margin","rule of thirds left","rule of thirds right","diagonal arrangement","negative space on top","tight crop filling frame","symmetrical","layered foreground and background"],
+  "props_and_surface":["none (product only)","one complementary lifestyle prop","dried flowers and linen","coffee cup and notebook","plants and natural stone","fabric swatches","seasonal elements","water droplets and mist","gift wrap and ribbon"],
+  "palette":["neutral beige and white","earthy greens and browns","soft pastels","monochrome grey","warm terracotta","cool blue and white","black and gold","bright playful colors"],
+  "mood":["clean and trustworthy","cozy and warm","premium and luxurious","fresh and energetic","calm and minimal","festive","natural and organic"]
+}

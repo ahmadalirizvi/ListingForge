@@ -1,0 +1,4 @@
+[
+  {"id":"pollinations-demo","label":"Pollinations","type":"pollinations","model":"","baseUrl":"","enabled":true,"priority":1,"dailyLimit":100,"maxConcurrency":2},
+  {"id":"gemini-demo","label":"Gemini","type":"gemini","model":"gemini-2.5-flash-image","baseUrl":"https://generativelanguage.googleapis.com","enabled":false,"priority":2,"dailyLimit":100,"maxConcurrency":1}
+]

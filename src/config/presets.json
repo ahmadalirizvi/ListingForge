@@ -1,0 +1,4 @@
+{
+  "etsy_listing": {"width":3000,"height":2250,"fit":"pad","background":"#ffffff","minWidth":2000,"maxKB":2000,"format":"jpeg","quality":0.92},
+  "custom": {"width":3000,"height":2250,"fit":"contain","background":"#ffffff","minWidth":2000,"maxKB":2000,"format":"jpeg","quality":0.92}
+}
